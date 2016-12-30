@@ -1,0 +1,3 @@
+<h1>CVE-2016-7479—UAF CODE EXECUTION</h1>
+
+<p></p>
